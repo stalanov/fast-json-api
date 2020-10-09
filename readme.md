@@ -1,4 +1,4 @@
-# Fast JSON Server
+# Fast JSON API server
 
 This is fast server implemented using [json-server](https://github.com/typicode/json-server)
 
