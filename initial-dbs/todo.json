@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 1, "title": "buy cookies", "completed": false },
+    { "id": 2, "title": "learn angular", "completed": false },
+    { "id": 3, "title": "get salary", "completed": true }
+  ]
+}

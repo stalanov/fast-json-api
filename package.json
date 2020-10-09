@@ -1,15 +1,19 @@
 {
-  "name": "todo-server",
+  "name": "json-api",
   "version": "1.0.0",
-  "description": "ToDo json server",
+  "description": "fast json rest api for different experiments",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "init": "npm i && ./init.sh",
+    "start": "json-server --watch"
   },
   "repository": {
     "type": "git",
-    "url": "todo-json-server"
+    "url": "fast-json-api"
   },
   "author": "Sergey Talanov",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
 }
