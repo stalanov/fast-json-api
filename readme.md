@@ -4,10 +4,14 @@ This is fast server implemented using [json-server](https://github.com/typicode/
 
 ## Requirements
 
-1. Linux, MacOS
-2. NodeJs
+1. Linux / MacOS
+2. NodeJs ([nvm](https://github.com/creationix/nvm))
 
 ## Getting started
+
+To install dependencies run:
+
+    npm i
 
 To initialize json data bases run:
 
